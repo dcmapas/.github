@@ -17,5 +17,5 @@
 <hr>
 <h2>Website</h2>
 <p>Nosso website está em um árduo desenvolvimento contínuo e já passou por várias versões desde ~2 anos atrás (2021)</p>
-<p>Atualmente estamos com uma versão beta no car, bem instável com constantes mudanças e novidades:</p>
+<p>Atualmente estamos com uma versão beta no ar, bem instável com constantes mudanças e novidades:</p>
 <p><a href="https://dcmapas.vercel.app/" target="_blank">https://dcmapas.vercel.app/</a></p>
